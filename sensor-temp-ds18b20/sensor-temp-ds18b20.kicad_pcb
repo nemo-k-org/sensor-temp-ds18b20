@@ -3945,7 +3945,7 @@
 		)
 	)
 	(gr_text "Sens\n+3.3"
-		(at 127.254 82.32 0)
+		(at 123.444 82.32 0)
 		(layer "B.SilkS")
 		(uuid "98374377-91d8-43d4-8b04-2b81826be763")
 		(effects
@@ -3957,7 +3957,7 @@
 		)
 	)
 	(gr_text "Sens\nData"
-		(at 123.4435 82.32 0)
+		(at 127.254 82.32 0)
 		(layer "B.SilkS")
 		(uuid "a7386270-4d19-40c7-b090-0af13ca7f8bf")
 		(effects
