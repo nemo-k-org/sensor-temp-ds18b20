@@ -1,6 +1,7 @@
 (fp_lib_table
   (version 7)
-  (lib (name "C2905025")(type "EasyEDA / JLCEDA Pro")(uri "/home/matti/projektit/nemo-k/temp-ds1820/board/footprints/C2905025.elibz")(options "")(descr ""))
-  (lib (name "C5160786")(type "EasyEDA / JLCEDA Pro")(uri "/home/matti/projektit/nemo-k/temp-ds1820/board/footprints/C5160786.elibz")(options "")(descr ""))
-  (lib (name "C3975149")(type "EasyEDA / JLCEDA Pro")(uri "/home/matti/projektit/nemo-k/temp-ds1820/board/footprints/C3975149.elibz")(options "")(descr ""))
+  (lib (name "C2905025")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/../footprints/C2905025.elibz")(options "")(descr ""))
+  (lib (name "C5160786")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/../footprints/C5160786.elibz")(options "")(descr ""))
+  (lib (name "C3975149")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/../footprints/C3975149.elibz")(options "")(descr ""))
+  (lib (name "C5174649")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/../footprints/C5174649.elibz")(options "")(descr ""))
 )
